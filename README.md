@@ -33,7 +33,7 @@
 <a href="https://t.me/MainMaTiN" target="blank"><img align="center" src="https://github.com/RealMaTiN/RealMaTiN/blob/main/Pics%20-%20Gifs/Social%20Media/Telegram.svg" height="45" width="45" /></a>
 <a href="https://discord.com/users/905027634541522974" target="blank"><img align="center" src="https://github.com/RealMaTiN/RealMaTiN/blob/main/Pics%20-%20Gifs/Social%20Media/Discord.svg" alt="alinikseresht_web" height="45" width="45" /></a>
 
-<br><br>
+<br>
 
 <div align="center">
 <img src="https://github.com/RealMaTiN/RealMaTiN/blob/main/Pics%20-%20Gifs/Gifs/Snake-Game.svg">

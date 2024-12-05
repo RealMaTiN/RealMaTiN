@@ -5,7 +5,7 @@
 
 <br>
 
-- 🌱 I’m Currently Learning **TailwindCss, Bootstrap, Sass**
+- 🌱 I’m Currently Learning **JavaScript**
 
 - 👨‍💻 You Can Find My Projects in [**GITHUB**](https://github.com/RealMaTiN)
 

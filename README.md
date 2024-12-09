@@ -18,6 +18,7 @@
 <div align="center">
   <code><img height="60" width="60" src="https://github.com/RealMaTiN/RealMaTiN/blob/main/Pics%20-%20Gifs/Language%20%26%20Tools/Html.svg"></code>
   <code><img height="60" width="60" src="https://github.com/RealMaTiN/RealMaTiN/blob/main/Pics%20-%20Gifs/Language%20%26%20Tools/Css.svg"></code>
+    <code><img height="60" width="60" src="https://github.com/RealMaTiN/RealMaTiN/blob/main/Pics%20-%20Gifs/Language%20%26%20Tools/JS.svg"></code>
   <code><img height="60" width="60" src="https://github.com/RealMaTiN/RealMaTiN/blob/main/Pics%20-%20Gifs/Language%20%26%20Tools/Tailwind.svg"></code>
   <code><img height="60" width="60" src="https://github.com/RealMaTiN/RealMaTiN/blob/main/Pics%20-%20Gifs/Language%20%26%20Tools/Bootstrap.svg"></code>
   <code><img height="60" width="60" src="https://github.com/RealMaTiN/RealMaTiN/blob/main/Pics%20-%20Gifs/Language%20%26%20Tools/Sass.svg"></code>

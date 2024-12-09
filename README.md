@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi there, I'M < / MaTiN ></h1>
 
 <h3 align="center">A New Front-End Developer !</h3>
-<h4 align="center">I Love Technology, Programming And Computers !</h4>
 
 <br>
 

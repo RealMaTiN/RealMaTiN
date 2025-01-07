@@ -4,7 +4,7 @@
 
 <br>
 
-- 🌱 I’m Currently Learning **JavaScript**
+- 🌱 I’m Currently Learning **NodeJS, ExpressJS, MongoDB**
 
 - 👨‍💻 You Can Find My Projects in [**GITHUB**](https://github.com/RealMaTiN)
 

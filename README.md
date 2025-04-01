@@ -26,6 +26,8 @@
 <a href="https://github.com/RealMaTiN" target="blank"><img align="center" src="https://github.com/RealMaTiN/RealMaTiN/blob/main/Pics%20-%20Gifs/Social%20Media/Github.svg" height="45" width="45" /></a>
 <a href="https://t.me/MainMaTiN" target="blank"><img align="center" src="https://github.com/RealMaTiN/RealMaTiN/blob/main/Pics%20-%20Gifs/Social%20Media/Telegram.svg" height="45" width="45" /></a>
 
+![connectWithMe](https://skillicons.dev/icons?i=github&theme=dark)(https://github.com/RealMaTiN)
+
 <br>
 
 <div align="center">

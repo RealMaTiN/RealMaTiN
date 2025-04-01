@@ -24,7 +24,7 @@
 <h3>💻 Connect with me:</h3>
 
 <a href="https://github.com/RealMaTiN" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github&theme=dark" height="45" width="45" /></a>
-<a href="https://t.me/MainMaTiN" target="blank"><img align="center" src="https://skillicons.dev/icons?i=telegram&theme=dark" height="45" width="45" /></a>
+<a href="https://t.me/MainMaTiN" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=telegram" height="45" width="45" /></a>
 
 <br>
 

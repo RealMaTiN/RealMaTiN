@@ -4,7 +4,7 @@
 
 <br>
 
-- 🌱 I’m Currently Learning **React**
+- 🌱 I’m Currently At **Rest**
 
 - 👨‍💻 You Can Find My Projects in [**GITHUB**](https://github.com/RealMaTiN)
 

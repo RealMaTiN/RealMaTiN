@@ -4,7 +4,7 @@
 
 <br>
 
-- 🌱 I’m Currently Working on a **Project**
+- 🌱 I'm trying hard to become a **FullStack Developer**
 
 - 👨‍💻 You Can Find My Projects in [**GITHUB**](https://github.com/RealMaTiN)
 

@@ -16,7 +16,9 @@
 
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,expressjs,mongodb,bootstrap,tailwindcss,sass,github&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,expressjs,mongodb&theme=dark)
+<br />
+![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwindcss,sass,github&theme=dark)
 </div>
 
 <br>

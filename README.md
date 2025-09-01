@@ -29,8 +29,3 @@
 <a href="mailto: whoism4tin@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45" width="45" /></a>
 <a href="https://t.me/MainMaTiN" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=telegram" height="45" width="45" /></a>
 <br>
-
-<div align="center">
-<img height="150" width="150" src="https://github.com/RealMaTiN/RealMaTiN/blob/main/Pics%20-%20Gifs/Language%20%26%20Tools/cat.gif">
-</div>
-

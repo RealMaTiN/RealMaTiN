@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'M < / MaTiN ></h1>
 
-<h3 align="center">A New FullStack Developer !</h3>
+<h3 align="center">Just a MERN-Stack Developer!</h3>
 
 <br>
 

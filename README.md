@@ -6,9 +6,9 @@
 
 - 🌱 I'm trying hard to become a **FullStack Developer**
 
-- 👨‍💻 You Can Find My Projects in [**GITHUB**](https://github.com/RealMaTiN)
+- 👨‍💻 You can find my projects in [**GITHUB**](https://github.com/RealMaTiN)
 
-- 📫 How To Reach ME **WhoisM4tin@Gmail.com**
+- 📫 How to reach me **WhoisM4tin@Gmail.com**
 
 <br>
 

@@ -19,7 +19,7 @@
 
 <h3>⚙️ Language & Tools:</h3>
 
-<div align="center">
+<div>
 
 ![My Skills](https://raw.githubusercontent.com/RealMaTiN/RealMaTiN/4cdc0fe1e43448c029c280d3f2f7acc9c42bdbfe/assets/Skills-1.svg)
 <br />
